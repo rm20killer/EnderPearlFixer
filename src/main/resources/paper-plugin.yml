@@ -1,0 +1,4 @@
+name: EnderPearlFixer
+version: '${version}'
+main: org.rm20.enderpearlfixer.EnderPearlFixer
+api-version: '1.20'
